@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorSystemLibrary", "ElevatorSystemLibrary\ElevatorSystemLibrary.csproj", "{5A696BB5-2175-41B9-A179-BDD843819158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorClient", "ElevatorClient\ElevatorClient.csproj", "{84D9569B-E293-4FEA-8ABF-8BC81B8CA3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A696BB5-2175-41B9-A179-BDD843819158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A696BB5-2175-41B9-A179-BDD843819158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A696BB5-2175-41B9-A179-BDD843819158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A696BB5-2175-41B9-A179-BDD843819158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D9569B-E293-4FEA-8ABF-8BC81B8CA3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D9569B-E293-4FEA-8ABF-8BC81B8CA3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D9569B-E293-4FEA-8ABF-8BC81B8CA3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D9569B-E293-4FEA-8ABF-8BC81B8CA3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361578BC-7C56-4AB8-A7D9-997C51F9DA47}
+	EndGlobalSection
+EndGlobal

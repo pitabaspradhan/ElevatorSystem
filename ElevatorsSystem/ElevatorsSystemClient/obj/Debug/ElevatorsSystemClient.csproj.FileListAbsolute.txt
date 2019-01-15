@@ -1,0 +1,10 @@
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\bin\Debug\ElevatorsSystemClient.exe.config
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\bin\Debug\ElevatorsSystemClient.exe
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\bin\Debug\ElevatorsSystemClient.pdb
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.csprojResolveAssemblyReference.cache
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.Form1.resources
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.Properties.Resources.resources
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.csproj.GenerateResource.Cache
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.csproj.CoreCompileInputs.cache
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.exe
+D:\D Drive\DotNet\Eurofins\ElevatorsSystem\ElevatorsSystemClient\obj\Debug\ElevatorsSystemClient.pdb
